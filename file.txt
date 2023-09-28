@@ -1,4 +1,2 @@
 Hello! This is challenge 27!
-Some more commit changes....
 
-Last commit that won't be pushed to branchB.
